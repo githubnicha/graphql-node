@@ -5,4 +5,6 @@ graphql-yoga is a fast and simple GraphQL server library built on top of Express
 
 The resolvers of your GraphQL server are implemented using the Prisma client that’s responsible for database access.
 
+Use yarn in installing packages
+
 CTTO
